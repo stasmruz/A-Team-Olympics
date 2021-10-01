@@ -1,0 +1,482 @@
+{
+    "USA": {
+        "Item": "USA",
+        "Category": "Country",
+        "Gold Medals": "2638",
+        "Total Medals": "5637"
+    },
+    "Russia": {
+        "Item": "Russia",
+        "Category": "Country",
+        "Gold Medals": "1599",
+        "Total Medals": "3947"
+    },
+    "Germany": {
+        "Item": "Germany",
+        "Category": "Country",
+        "Gold Medals": "1301",
+        "Total Medals": "3756"
+    },
+    "UK": {
+        "Item": "UK",
+        "Category": "Country",
+        "Gold Medals": "678",
+        "Total Medals": "2068"
+    },
+    "Italy": {
+        "Item": "Italy",
+        "Category": "Country",
+        "Gold Medals": "575",
+        "Total Medals": "1637"
+    },
+    "France": {
+        "Item": "France",
+        "Category": "Country",
+        "Gold Medals": "501",
+        "Total Medals": "1777"
+    },
+    "Sweden": {
+        "Item": "Sweden",
+        "Category": "Country",
+        "Gold Medals": "479",
+        "Total Medals": "1536"
+    },
+    "Canada": {
+        "Item": "Canada",
+        "Category": "Country",
+        "Gold Medals": "463",
+        "Total Medals": "1352"
+    },
+    "Hungary": {
+        "Item": "Hungary",
+        "Category": "Country",
+        "Gold Medals": "432",
+        "Total Medals": "1135"
+    },
+    "Norway": {
+        "Item": "Norway",
+        "Category": "Country",
+        "Gold Medals": "378",
+        "Total Medals": "1033"
+    },
+    "Australia": {
+        "Item": "Australia",
+        "Category": "Country",
+        "Gold Medals": "368",
+        "Total Medals": "1349"
+    },
+    "China": {
+        "Item": "China",
+        "Category": "Country",
+        "Gold Medals": "351",
+        "Total Medals": "993"
+    },
+    "Netherlands": {
+        "Item": "Netherlands",
+        "Category": "Country",
+        "Gold Medals": "287",
+        "Total Medals": "1040"
+    },
+    "Japan": {
+        "Item": "Japan",
+        "Category": "Country",
+        "Gold Medals": "247",
+        "Total Medals": "913"
+    },
+    "South Korea": {
+        "Item": "South Korea",
+        "Category": "Country",
+        "Gold Medals": "221",
+        "Total Medals": "638"
+    },
+    "Finland": {
+        "Item": "Finland",
+        "Category": "Country",
+        "Gold Medals": "198",
+        "Total Medals": "900"
+    },
+    "Denmark": {
+        "Item": "Denmark",
+        "Category": "Country",
+        "Gold Medals": "179",
+        "Total Medals": "597"
+    },
+    "Switzerland": {
+        "Item": "Switzerland",
+        "Category": "Country",
+        "Gold Medals": "175",
+        "Total Medals": "691"
+    },
+    "Cuba": {
+        "Item": "Cuba",
+        "Category": "Country",
+        "Gold Medals": "164",
+        "Total Medals": "409"
+    },
+    "Romania": {
+        "Item": "Romania",
+        "Category": "Country",
+        "Gold Medals": "161",
+        "Total Medals": "653"
+    },
+    "Michael Fred Phelps, II": {
+        "Item": "Michael Fred Phelps, II",
+        "Category": "Athlete",
+        "Gold Medals": "23",
+        "Total Medals": "28"
+    },
+    "Raymond Clarence \"Ray\" Ewry": {
+        "Item": "Raymond Clarence \"Ray\" Ewry",
+        "Category": "Athlete",
+        "Gold Medals": "10",
+        "Total Medals": "10"
+    },
+    "Paavo Johannes Nurmi": {
+        "Item": "Paavo Johannes Nurmi",
+        "Category": "Athlete",
+        "Gold Medals": "9",
+        "Total Medals": "12"
+    },
+    "Mark Andrew Spitz": {
+        "Item": "Mark Andrew Spitz",
+        "Category": "Athlete",
+        "Gold Medals": "9",
+        "Total Medals": "11"
+    },
+    "Larysa Semenivna Latynina (Diriy-)": {
+        "Item": "Larysa Semenivna Latynina (Diriy-)",
+        "Category": "Athlete",
+        "Gold Medals": "9",
+        "Total Medals": "18"
+    },
+    "Frederick Carlton \"Carl\" Lewis": {
+        "Item": "Frederick Carlton \"Carl\" Lewis",
+        "Category": "Athlete",
+        "Gold Medals": "9",
+        "Total Medals": "10"
+    },
+    "Usain St. Leo Bolt": {
+        "Item": "Usain St. Leo Bolt",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "8"
+    },
+    "Sawao Kato": {
+        "Item": "Sawao Kato",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "12"
+    },
+    "Ole Einar Bjrndalen": {
+        "Item": "Ole Einar Bjrndalen",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "13"
+    },
+    "Matthew Nicholas \"Matt\" Biondi": {
+        "Item": "Matthew Nicholas \"Matt\" Biondi",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "11"
+    },
+    "Jennifer Elisabeth \"Jenny\" Thompson (-Cumpelik)": {
+        "Item": "Jennifer Elisabeth \"Jenny\" Thompson (-Cumpelik)",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "12"
+    },
+    "Birgit Fischer-Schmidt": {
+        "Item": "Birgit Fischer-Schmidt",
+        "Category": "Athlete",
+        "Gold Medals": "8",
+        "Total Medals": "12"
+    },
+    "Vra slavsk (-Odloilov)": {
+        "Item": "Vra slavsk (-Odloilov)",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "11"
+    },
+    "Viktor Ivanovych Chukarin": {
+        "Item": "Viktor Ivanovych Chukarin",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "11"
+    },
+    "Nikolay Yefimovich Andrianov": {
+        "Item": "Nikolay Yefimovich Andrianov",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "15"
+    },
+    "Donald Arthur \"Don\" Schollander": {
+        "Item": "Donald Arthur \"Don\" Schollander",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "8"
+    },
+    "Borys Anfiyanovych Shakhlin": {
+        "Item": "Borys Anfiyanovych Shakhlin",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "13"
+    },
+    "Aladr Gerevich (-Gerei)": {
+        "Item": "Aladr Gerevich (-Gerei)",
+        "Category": "Athlete",
+        "Gold Medals": "7",
+        "Total Medals": "10"
+    },
+    "Viktor An": {
+        "Item": "Viktor An",
+        "Category": "Athlete",
+        "Gold Medals": "6",
+        "Total Medals": "8"
+    },
+    "Vitaly Venediktovich Shcherbo": {
+        "Item": "Vitaly Venediktovich Shcherbo",
+        "Category": "Athlete",
+        "Gold Medals": "6",
+        "Total Medals": "10"
+    },
+    "Athletics": {
+        "Item": "Athletics",
+        "Category": "Sport",
+        "Gold Medals": "1339",
+        "Total Medals": "3969"
+    },
+    "Swimming": {
+        "Item": "Swimming",
+        "Category": "Sport",
+        "Gold Medals": "1098",
+        "Total Medals": "3047"
+    },
+    "Rowing": {
+        "Item": "Rowing",
+        "Category": "Sport",
+        "Gold Medals": "978",
+        "Total Medals": "2945"
+    },
+    "Gymnastics": {
+        "Item": "Gymnastics",
+        "Category": "Sport",
+        "Gold Medals": "791",
+        "Total Medals": "2256"
+    },
+    "Fencing": {
+        "Item": "Fencing",
+        "Category": "Sport",
+        "Gold Medals": "594",
+        "Total Medals": "1743"
+    },
+    "Hockey": {
+        "Item": "Hockey",
+        "Category": "Sport",
+        "Gold Medals": "518",
+        "Total Medals": "1528"
+    },
+    "Football": {
+        "Item": "Football",
+        "Category": "Sport",
+        "Gold Medals": "515",
+        "Total Medals": "1571"
+    },
+    "Ice Hockey": {
+        "Item": "Ice Hockey",
+        "Category": "Sport",
+        "Gold Medals": "508",
+        "Total Medals": "1530"
+    },
+    "Sailing": {
+        "Item": "Sailing",
+        "Category": "Sport",
+        "Gold Medals": "450",
+        "Total Medals": "1232"
+    },
+    "Cycling": {
+        "Item": "Cycling",
+        "Category": "Sport",
+        "Gold Medals": "424",
+        "Total Medals": "1263"
+    },
+    "Wrestling": {
+        "Item": "Wrestling",
+        "Category": "Sport",
+        "Gold Medals": "413",
+        "Total Medals": "1296"
+    },
+    "Shooting": {
+        "Item": "Shooting",
+        "Category": "Sport",
+        "Gold Medals": "410",
+        "Total Medals": "1228"
+    },
+    "Canoeing": {
+        "Item": "Canoeing",
+        "Category": "Sport",
+        "Gold Medals": "388",
+        "Total Medals": "1165"
+    },
+    "Basketball": {
+        "Item": "Basketball",
+        "Category": "Sport",
+        "Gold Medals": "365",
+        "Total Medals": "1080"
+    },
+    "Water Polo": {
+        "Item": "Water Polo",
+        "Category": "Sport",
+        "Gold Medals": "350",
+        "Total Medals": "1057"
+    },
+    "Handball": {
+        "Item": "Handball",
+        "Category": "Sport",
+        "Gold Medals": "349",
+        "Total Medals": "1060"
+    },
+    "Equestrianism": {
+        "Item": "Equestrianism",
+        "Category": "Sport",
+        "Gold Medals": "324",
+        "Total Medals": "965"
+    },
+    "Volleyball": {
+        "Item": "Volleyball",
+        "Category": "Sport",
+        "Gold Medals": "322",
+        "Total Medals": "969"
+    },
+    "Cross Country Skiing": {
+        "Item": "Cross Country Skiing",
+        "Category": "Sport",
+        "Gold Medals": "256",
+        "Total Medals": "776"
+    },
+    "Boxing": {
+        "Item": "Boxing",
+        "Category": "Sport",
+        "Gold Medals": "252",
+        "Total Medals": "944"
+    },
+    "Football Men's Football": {
+        "Item": "Football Men's Football",
+        "Category": "Event",
+        "Gold Medals": "414",
+        "Total Medals": "1269"
+    },
+    "Ice Hockey Men's Ice Hockey": {
+        "Item": "Ice Hockey Men's Ice Hockey",
+        "Category": "Event",
+        "Gold Medals": "407",
+        "Total Medals": "1230"
+    },
+    "Hockey Men's Hockey": {
+        "Item": "Hockey Men's Hockey",
+        "Category": "Event",
+        "Gold Medals": "360",
+        "Total Medals": "1050"
+    },
+    "Water Polo Men's Water Polo": {
+        "Item": "Water Polo Men's Water Polo",
+        "Category": "Event",
+        "Gold Medals": "287",
+        "Total Medals": "866"
+    },
+    "Gymnastics Men's Team All-Around": {
+        "Item": "Gymnastics Men's Team All-Around",
+        "Category": "Event",
+        "Gold Medals": "249",
+        "Total Medals": "713"
+    },
+    "Rowing Men's Coxed Eights": {
+        "Item": "Rowing Men's Coxed Eights",
+        "Category": "Event",
+        "Gold Medals": "244",
+        "Total Medals": "730"
+    },
+    "Basketball Men's Basketball": {
+        "Item": "Basketball Men's Basketball",
+        "Category": "Event",
+        "Gold Medals": "234",
+        "Total Medals": "687"
+    },
+    "Handball Men's Handball": {
+        "Item": "Handball Men's Handball",
+        "Category": "Event",
+        "Gold Medals": "194",
+        "Total Medals": "588"
+    },
+    "Volleyball Men's Volleyball": {
+        "Item": "Volleyball Men's Volleyball",
+        "Category": "Event",
+        "Gold Medals": "166",
+        "Total Medals": "495"
+    },
+    "Hockey Women's Hockey": {
+        "Item": "Hockey Women's Hockey",
+        "Category": "Event",
+        "Gold Medals": "158",
+        "Total Medals": "478"
+    },
+    "Volleyball Women's Volleyball": {
+        "Item": "Volleyball Women's Volleyball",
+        "Category": "Event",
+        "Gold Medals": "156",
+        "Total Medals": "474"
+    },
+    "Handball Women's Handball": {
+        "Item": "Handball Women's Handball",
+        "Category": "Event",
+        "Gold Medals": "155",
+        "Total Medals": "472"
+    },
+    "Swimming Men's 4 x 200 metres Freestyle Relay": {
+        "Item": "Swimming Men's 4 x 200 metres Freestyle Relay",
+        "Category": "Event",
+        "Gold Medals": "153",
+        "Total Medals": "395"
+    },
+    "Fencing Men's epee, Team": {
+        "Item": "Fencing Men's epee, Team",
+        "Category": "Event",
+        "Gold Medals": "134",
+        "Total Medals": "388"
+    },
+    "Swimming Women's 4 x 100 metres Freestyle Relay": {
+        "Item": "Swimming Women's 4 x 100 metres Freestyle Relay",
+        "Category": "Event",
+        "Gold Medals": "131",
+        "Total Medals": "362"
+    },
+    "Basketball Women's Basketball": {
+        "Item": "Basketball Women's Basketball",
+        "Category": "Event",
+        "Gold Medals": "131",
+        "Total Medals": "393"
+    },
+    "Fencing Men's Sabre, Team": {
+        "Item": "Fencing Men's Sabre, Team",
+        "Category": "Event",
+        "Gold Medals": "130",
+        "Total Medals": "384"
+    },
+    "Gymnastics Women's Team All-Around": {
+        "Item": "Gymnastics Women's Team All-Around",
+        "Category": "Event",
+        "Gold Medals": "129",
+        "Total Medals": "390"
+    },
+    "Fencing Men's Foil, Team": {
+        "Item": "Fencing Men's Foil, Team",
+        "Category": "Event",
+        "Gold Medals": "117",
+        "Total Medals": "341"
+    },
+    "Swimming Men's 4 x 100 metres Medley Relay": {
+        "Item": "Swimming Men's 4 x 100 metres Medley Relay",
+        "Category": "Event",
+        "Gold Medals": "113",
+        "Total Medals": "279"
+    }
+}

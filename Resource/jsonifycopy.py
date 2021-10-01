@@ -19,7 +19,7 @@ def make_json(csvFilePath, jsonFilePath):
 			
 			# Assuming a column named 'No' to
 			# be the primary key
-			key = rows['ID']
+			key = rows["Region"]
 			data[key] = rows
 
 	# Open a json writer, and use the json.dumps()
@@ -31,8 +31,8 @@ def make_json(csvFilePath, jsonFilePath):
 
 # Decide the two file paths according to your
 # computer system
-csvFilePath = "../Resource/Cleaned.csv"
-jsonFilePath = "../Resource/Cleaned.json"
+csvFilePath = "MapData.csv"
+jsonFilePath = "JSONs/MapData.json"
 
 # Call the make_json function
 make_json(csvFilePath, jsonFilePath)

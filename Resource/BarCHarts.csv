@@ -1,81 +1,81 @@
-Item,Category,Gold Medals,Total Medals
-USA,Country,2638,5637
-Russia,Country,1599,3947
-Germany,Country,1301,3756
-UK,Country,678,2068
-Italy,Country,575,1637
-France,Country,501,1777
-Sweden,Country,479,1536
-Canada,Country,463,1352
-Hungary,Country,432,1135
-Norway,Country,378,1033
-Australia,Country,368,1349
-China,Country,351,993
-Netherlands,Country,287,1040
-Japan,Country,247,913
-South Korea,Country,221,638
-Finland,Country,198,900
-Denmark,Country,179,597
-Switzerland,Country,175,691
-Cuba,Country,164,409
-Romania,Country,161,653
-"Michael Fred Phelps, II",Athlete,23,28
-"Raymond Clarence ""Ray"" Ewry",Athlete,10,10
-Paavo Johannes Nurmi,Athlete,9,12
-Mark Andrew Spitz,Athlete,9,11
-Larysa Semenivna Latynina (Diriy-),Athlete,9,18
-"Frederick Carlton ""Carl"" Lewis",Athlete,9,10
-Usain St. Leo Bolt,Athlete,8,8
-Sawao Kato,Athlete,8,12
-Ole Einar Bjrndalen,Athlete,8,13
-"Matthew Nicholas ""Matt"" Biondi",Athlete,8,11
-"Jennifer Elisabeth ""Jenny"" Thompson (-Cumpelik)",Athlete,8,12
-Birgit Fischer-Schmidt,Athlete,8,12
-Vra slavsk (-Odloilov),Athlete,7,11
-Viktor Ivanovych Chukarin,Athlete,7,11
-Nikolay Yefimovich Andrianov,Athlete,7,15
-"Donald Arthur ""Don"" Schollander",Athlete,7,8
-Borys Anfiyanovych Shakhlin,Athlete,7,13
-Aladr Gerevich (-Gerei),Athlete,7,10
-Viktor An,Athlete,6,8
-Vitaly Venediktovich Shcherbo,Athlete,6,10
-Athletics,Sport,1339,3969
-Swimming,Sport,1098,3047
-Rowing,Sport,978,2945
-Gymnastics,Sport,791,2256
-Fencing,Sport,594,1743
-Hockey,Sport,518,1528
-Football,Sport,515,1571
-Ice Hockey,Sport,508,1530
-Sailing,Sport,450,1232
-Cycling,Sport,424,1263
-Wrestling,Sport,413,1296
-Shooting,Sport,410,1228
-Canoeing,Sport,388,1165
-Basketball,Sport,365,1080
-Water Polo,Sport,350,1057
-Handball,Sport,349,1060
-Equestrianism,Sport,324,965
-Volleyball,Sport,322,969
-Cross Country Skiing,Sport,256,776
-Boxing,Sport,252,944
-Football Men's Football,Event,414,1269
-Ice Hockey Men's Ice Hockey,Event,407,1230
-Hockey Men's Hockey,Event,360,1050
-Water Polo Men's Water Polo,Event,287,866
-Gymnastics Men's Team All-Around,Event,249,713
-Rowing Men's Coxed Eights,Event,244,730
-Basketball Men's Basketball,Event,234,687
-Handball Men's Handball,Event,194,588
-Volleyball Men's Volleyball,Event,166,495
-Hockey Women's Hockey,Event,158,478
-Volleyball Women's Volleyball,Event,156,474
-Handball Women's Handball,Event,155,472
-Swimming Men's 4 x 200 metres Freestyle Relay,Event,153,395
-"Fencing Men's epee, Team",Event,134,388
-Swimming Women's 4 x 100 metres Freestyle Relay,Event,131,362
-Basketball Women's Basketball,Event,131,393
-"Fencing Men's Sabre, Team",Event,130,384
-Gymnastics Women's Team All-Around,Event,129,390
-"Fencing Men's Foil, Team",Event,117,341
-Swimming Men's 4 x 100 metres Medley Relay,Event,113,279
+Category,Item,Gold Medals,Total Medals
+Country,USA,2638,5637
+Country,Russia,1599,3947
+Country,Germany,1301,3756
+Country,UK,678,2068
+Country,Italy,575,1637
+Country,France,501,1777
+Country,Sweden,479,1536
+Country,Canada,463,1352
+Country,Hungary,432,1135
+Country,Norway,378,1033
+Country,Australia,368,1349
+Country,China,351,993
+Country,Netherlands,287,1040
+Country,Japan,247,913
+Country,South Korea,221,638
+Country,Finland,198,900
+Country,Denmark,179,597
+Country,Switzerland,175,691
+Country,Cuba,164,409
+Country,Romania,161,653
+Athlete,"Michael Fred Phelps, II",23,28
+Athlete,"Raymond Clarence ""Ray"" Ewry",10,10
+Athlete,Paavo Johannes Nurmi,9,12
+Athlete,Mark Andrew Spitz,9,11
+Athlete,Larysa Semenivna Latynina (Diriy-),9,18
+Athlete,"Frederick Carlton ""Carl"" Lewis",9,10
+Athlete,Usain St. Leo Bolt,8,8
+Athlete,Sawao Kato,8,12
+Athlete,Ole Einar Bjrndalen,8,13
+Athlete,"Matthew Nicholas ""Matt"" Biondi",8,11
+Athlete,"Jennifer Elisabeth ""Jenny"" Thompson (-Cumpelik)",8,12
+Athlete,Birgit Fischer-Schmidt,8,12
+Athlete,Vra slavsk (-Odloilov),7,11
+Athlete,Viktor Ivanovych Chukarin,7,11
+Athlete,Nikolay Yefimovich Andrianov,7,15
+Athlete,"Donald Arthur ""Don"" Schollander",7,8
+Athlete,Borys Anfiyanovych Shakhlin,7,13
+Athlete,Aladr Gerevich (-Gerei),7,10
+Athlete,Viktor An,6,8
+Athlete,Vitaly Venediktovich Shcherbo,6,10
+Sport,Athletics,1339,3969
+Sport,Swimming,1098,3047
+Sport,Rowing,978,2945
+Sport,Gymnastics,791,2256
+Sport,Fencing,594,1743
+Sport,Hockey,518,1528
+Sport,Football,515,1571
+Sport,Ice Hockey,508,1530
+Sport,Sailing,450,1232
+Sport,Cycling,424,1263
+Sport,Wrestling,413,1296
+Sport,Shooting,410,1228
+Sport,Canoeing,388,1165
+Sport,Basketball,365,1080
+Sport,Water Polo,350,1057
+Sport,Handball,349,1060
+Sport,Equestrianism,324,965
+Sport,Volleyball,322,969
+Sport,Cross Country Skiing,256,776
+Sport,Boxing,252,944
+Event,Football Men's Football,414,1269
+Event,Ice Hockey Men's Ice Hockey,407,1230
+Event,Hockey Men's Hockey,360,1050
+Event,Water Polo Men's Water Polo,287,866
+Event,Gymnastics Men's Team All-Around,249,713
+Event,Rowing Men's Coxed Eights,244,730
+Event,Basketball Men's Basketball,234,687
+Event,Handball Men's Handball,194,588
+Event,Volleyball Men's Volleyball,166,495
+Event,Hockey Women's Hockey,158,478
+Event,Volleyball Women's Volleyball,156,474
+Event,Handball Women's Handball,155,472
+Event,Swimming Men's 4 x 200 metres Freestyle Relay,153,395
+Event,"Fencing Men's epee, Team",134,388
+Event,Swimming Women's 4 x 100 metres Freestyle Relay,131,362
+Event,Basketball Women's Basketball,131,393
+Event,"Fencing Men's Sabre, Team",130,384
+Event,Gymnastics Women's Team All-Around,129,390
+Event,"Fencing Men's Foil, Team",117,341
+Event,Swimming Men's 4 x 100 metres Medley Relay,113,279

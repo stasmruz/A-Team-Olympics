@@ -1,0 +1,2052 @@
+{
+    "Afghanistan": {
+        "Region": "Afghanistan",
+        "Bronze": "2",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "124",
+        "Attempts": "126",
+        "Wins": "2",
+        "Athletes": "103"
+    },
+    "Albania": {
+        "Region": "Albania",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "70",
+        "Attempts": "70",
+        "Wins": "0",
+        "Athletes": "45"
+    },
+    "Algeria": {
+        "Region": "Algeria",
+        "Bronze": "8",
+        "Silver": "4",
+        "Gold": "5",
+        "No Win": "534",
+        "Attempts": "551",
+        "Wins": "17",
+        "Athletes": "373"
+    },
+    "American Samoa": {
+        "Region": "American Samoa",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "37",
+        "Attempts": "37",
+        "Wins": "0",
+        "Athletes": "29"
+    },
+    "Andorra": {
+        "Region": "Andorra",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "169",
+        "Attempts": "169",
+        "Wins": "0",
+        "Athletes": "61"
+    },
+    "Angola": {
+        "Region": "Angola",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "267",
+        "Attempts": "267",
+        "Wins": "0",
+        "Athletes": "163"
+    },
+    "Antigua": {
+        "Region": "Antigua",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "133",
+        "Attempts": "133",
+        "Wins": "0",
+        "Athletes": "70"
+    },
+    "Argentina": {
+        "Region": "Argentina",
+        "Bronze": "91",
+        "Silver": "92",
+        "Gold": "91",
+        "No Win": "3023",
+        "Attempts": "3297",
+        "Wins": "274",
+        "Athletes": "1848"
+    },
+    "Armenia": {
+        "Region": "Armenia",
+        "Bronze": "9",
+        "Silver": "5",
+        "Gold": "2",
+        "No Win": "205",
+        "Attempts": "221",
+        "Wins": "16",
+        "Athletes": "146"
+    },
+    "Aruba": {
+        "Region": "Aruba",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "42",
+        "Attempts": "42",
+        "Wins": "0",
+        "Athletes": "32"
+    },
+    "Australia": {
+        "Region": "Australia",
+        "Bronze": "522",
+        "Silver": "459",
+        "Gold": "368",
+        "No Win": "6375",
+        "Attempts": "7724",
+        "Wins": "1349",
+        "Athletes": "3870"
+    },
+    "Austria": {
+        "Region": "Austria",
+        "Bronze": "156",
+        "Silver": "186",
+        "Gold": "108",
+        "No Win": "4691",
+        "Attempts": "5141",
+        "Wins": "450",
+        "Athletes": "2337"
+    },
+    "Azerbaijan": {
+        "Region": "Azerbaijan",
+        "Bronze": "25",
+        "Silver": "12",
+        "Gold": "7",
+        "No Win": "239",
+        "Attempts": "283",
+        "Wins": "44",
+        "Athletes": "193"
+    },
+    "Bahamas": {
+        "Region": "Bahamas",
+        "Bronze": "15",
+        "Silver": "11",
+        "Gold": "14",
+        "No Win": "334",
+        "Attempts": "374",
+        "Wins": "40",
+        "Athletes": "162"
+    },
+    "Bahrain": {
+        "Region": "Bahrain",
+        "Bronze": "1",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "123",
+        "Attempts": "126",
+        "Wins": "3",
+        "Athletes": "90"
+    },
+    "Bangladesh": {
+        "Region": "Bangladesh",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "55",
+        "Attempts": "55",
+        "Wins": "0",
+        "Athletes": "38"
+    },
+    "Barbados": {
+        "Region": "Barbados",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "218",
+        "Attempts": "219",
+        "Wins": "1",
+        "Athletes": "115"
+    },
+    "Belarus": {
+        "Region": "Belarus",
+        "Bronze": "71",
+        "Silver": "44",
+        "Gold": "24",
+        "No Win": "1648",
+        "Attempts": "1787",
+        "Wins": "139",
+        "Athletes": "763"
+    },
+    "Belgium": {
+        "Region": "Belgium",
+        "Bronze": "173",
+        "Silver": "197",
+        "Gold": "98",
+        "No Win": "3389",
+        "Attempts": "3857",
+        "Wins": "468",
+        "Athletes": "2078"
+    },
+    "Belize": {
+        "Region": "Belize",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "76",
+        "Attempts": "76",
+        "Wins": "0",
+        "Athletes": "52"
+    },
+    "Benin": {
+        "Region": "Benin",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "71",
+        "Attempts": "71",
+        "Wins": "0",
+        "Athletes": "54"
+    },
+    "Bermuda": {
+        "Region": "Bermuda",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "211",
+        "Attempts": "212",
+        "Wins": "1",
+        "Athletes": "121"
+    },
+    "Bhutan": {
+        "Region": "Bhutan",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "36",
+        "Attempts": "36",
+        "Wins": "0",
+        "Athletes": "21"
+    },
+    "Boliva": {
+        "Region": "Boliva",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "152",
+        "Attempts": "152",
+        "Wins": "0",
+        "Athletes": "89"
+    },
+    "Bosnia and Herzegovina": {
+        "Region": "Bosnia and Herzegovina",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "134",
+        "Attempts": "134",
+        "Wins": "0",
+        "Athletes": "73"
+    },
+    "Botswana": {
+        "Region": "Botswana",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "89",
+        "Attempts": "90",
+        "Wins": "1",
+        "Athletes": "62"
+    },
+    "Brazil": {
+        "Region": "Brazil",
+        "Bronze": "191",
+        "Silver": "175",
+        "Gold": "109",
+        "No Win": "3373",
+        "Attempts": "3848",
+        "Wins": "475",
+        "Athletes": "2053"
+    },
+    "Brunei": {
+        "Region": "Brunei",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "10",
+        "Attempts": "10",
+        "Wins": "0",
+        "Athletes": "9"
+    },
+    "Bulgaria": {
+        "Region": "Bulgaria",
+        "Bronze": "144",
+        "Silver": "144",
+        "Gold": "54",
+        "No Win": "3188",
+        "Attempts": "3530",
+        "Wins": "342",
+        "Athletes": "1502"
+    },
+    "Burkina Faso": {
+        "Region": "Burkina Faso",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "44",
+        "Attempts": "44",
+        "Wins": "0",
+        "Athletes": "32"
+    },
+    "Burundi": {
+        "Region": "Burundi",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "37",
+        "Attempts": "39",
+        "Wins": "2",
+        "Athletes": "25"
+    },
+    "Cambodia": {
+        "Region": "Cambodia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "63",
+        "Attempts": "63",
+        "Wins": "0",
+        "Athletes": "45"
+    },
+    "Cameroon": {
+        "Region": "Cameroon",
+        "Bronze": "1",
+        "Silver": "1",
+        "Gold": "20",
+        "No Win": "290",
+        "Attempts": "312",
+        "Wins": "22",
+        "Athletes": "227"
+    },
+    "Canada": {
+        "Region": "Canada",
+        "Bronze": "451",
+        "Silver": "438",
+        "Gold": "463",
+        "No Win": "8382",
+        "Attempts": "9734",
+        "Wins": "1352",
+        "Athletes": "4812"
+    },
+    "Cape Verde": {
+        "Region": "Cape Verde",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "18",
+        "Attempts": "18",
+        "Wins": "0",
+        "Athletes": "13"
+    },
+    "Cayman Islands": {
+        "Region": "Cayman Islands",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "83",
+        "Attempts": "83",
+        "Wins": "0",
+        "Athletes": "39"
+    },
+    "Central African Republic": {
+        "Region": "Central African Republic",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "67",
+        "Attempts": "67",
+        "Wins": "0",
+        "Athletes": "50"
+    },
+    "Chad": {
+        "Region": "Chad",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "41",
+        "Attempts": "41",
+        "Wins": "0",
+        "Athletes": "27"
+    },
+    "Chile": {
+        "Region": "Chile",
+        "Bronze": "20",
+        "Silver": "9",
+        "Gold": "3",
+        "No Win": "893",
+        "Attempts": "925",
+        "Wins": "32",
+        "Athletes": "525"
+    },
+    "China": {
+        "Region": "China",
+        "Bronze": "293",
+        "Silver": "349",
+        "Gold": "351",
+        "No Win": "4833",
+        "Attempts": "5826",
+        "Wins": "993",
+        "Athletes": "2985"
+    },
+    "Colombia": {
+        "Region": "Colombia",
+        "Bronze": "14",
+        "Silver": "9",
+        "Gold": "5",
+        "No Win": "1041",
+        "Attempts": "1069",
+        "Wins": "28",
+        "Athletes": "617"
+    },
+    "Comoros": {
+        "Region": "Comoros",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "19",
+        "Attempts": "19",
+        "Wins": "0",
+        "Athletes": "15"
+    },
+    "Cook Islands": {
+        "Region": "Cook Islands",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "40",
+        "Attempts": "40",
+        "Wins": "0",
+        "Athletes": "30"
+    },
+    "Costa Rica": {
+        "Region": "Costa Rica",
+        "Bronze": "2",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "260",
+        "Attempts": "264",
+        "Wins": "4",
+        "Athletes": "156"
+    },
+    "Croatia": {
+        "Region": "Croatia",
+        "Bronze": "37",
+        "Silver": "54",
+        "Gold": "58",
+        "No Win": "727",
+        "Attempts": "876",
+        "Wins": "149",
+        "Athletes": "428"
+    },
+    "Cuba": {
+        "Region": "Cuba",
+        "Bronze": "116",
+        "Silver": "129",
+        "Gold": "164",
+        "No Win": "2070",
+        "Attempts": "2479",
+        "Wins": "409",
+        "Athletes": "1283"
+    },
+    "Curacao": {
+        "Region": "Curacao",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "78",
+        "Attempts": "79",
+        "Wins": "1",
+        "Athletes": "55"
+    },
+    "Cyprus": {
+        "Region": "Cyprus",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "224",
+        "Attempts": "225",
+        "Wins": "1",
+        "Athletes": "120"
+    },
+    "Czech Republic": {
+        "Region": "Czech Republic",
+        "Bronze": "259",
+        "Silver": "262",
+        "Gold": "123",
+        "No Win": "5787",
+        "Attempts": "6431",
+        "Wins": "644",
+        "Athletes": "2782"
+    },
+    "Democratic Republic of the Congo": {
+        "Region": "Democratic Republic of the Congo",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "93",
+        "Attempts": "93",
+        "Wins": "0",
+        "Athletes": "69"
+    },
+    "Denmark": {
+        "Region": "Denmark",
+        "Bronze": "177",
+        "Silver": "241",
+        "Gold": "179",
+        "No Win": "2973",
+        "Attempts": "3570",
+        "Wins": "597",
+        "Athletes": "1923"
+    },
+    "Djibouti": {
+        "Region": "Djibouti",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "37",
+        "Attempts": "38",
+        "Wins": "1",
+        "Athletes": "28"
+    },
+    "Dominica": {
+        "Region": "Dominica",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "19",
+        "Attempts": "19",
+        "Wins": "0",
+        "Athletes": "17"
+    },
+    "Dominican Republic": {
+        "Region": "Dominican Republic",
+        "Bronze": "2",
+        "Silver": "2",
+        "Gold": "3",
+        "No Win": "270",
+        "Attempts": "277",
+        "Wins": "7",
+        "Athletes": "208"
+    },
+    "Ecuador": {
+        "Region": "Ecuador",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "275",
+        "Attempts": "277",
+        "Wins": "2",
+        "Athletes": "158"
+    },
+    "Egypt": {
+        "Region": "Egypt",
+        "Bronze": "12",
+        "Silver": "8",
+        "Gold": "7",
+        "No Win": "1595",
+        "Attempts": "1622",
+        "Wins": "27",
+        "Athletes": "1000"
+    },
+    "El Salvador": {
+        "Region": "El Salvador",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "218",
+        "Attempts": "218",
+        "Wins": "0",
+        "Athletes": "126"
+    },
+    "Equatorial Guinea": {
+        "Region": "Equatorial Guinea",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "40",
+        "Attempts": "40",
+        "Wins": "0",
+        "Athletes": "26"
+    },
+    "Eritrea": {
+        "Region": "Eritrea",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "42",
+        "Attempts": "43",
+        "Wins": "1",
+        "Athletes": "26"
+    },
+    "Estonia": {
+        "Region": "Estonia",
+        "Bronze": "25",
+        "Silver": "12",
+        "Gold": "13",
+        "No Win": "826",
+        "Attempts": "876",
+        "Wins": "50",
+        "Athletes": "354"
+    },
+    "Ethiopia": {
+        "Region": "Ethiopia",
+        "Bronze": "22",
+        "Silver": "9",
+        "Gold": "22",
+        "No Win": "325",
+        "Attempts": "378",
+        "Wins": "53",
+        "Athletes": "232"
+    },
+    "Fiji": {
+        "Region": "Fiji",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "13",
+        "No Win": "219",
+        "Attempts": "232",
+        "Wins": "13",
+        "Athletes": "128"
+    },
+    "Finland": {
+        "Region": "Finland",
+        "Bronze": "432",
+        "Silver": "270",
+        "Gold": "198",
+        "No Win": "4567",
+        "Attempts": "5467",
+        "Wins": "900",
+        "Athletes": "2347"
+    },
+    "France": {
+        "Region": "France",
+        "Bronze": "666",
+        "Silver": "610",
+        "Gold": "501",
+        "No Win": "10981",
+        "Attempts": "12758",
+        "Wins": "1777",
+        "Athletes": "6170"
+    },
+    "Gabon": {
+        "Region": "Gabon",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "62",
+        "Attempts": "63",
+        "Wins": "1",
+        "Athletes": "48"
+    },
+    "Gambia": {
+        "Region": "Gambia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "56",
+        "Attempts": "56",
+        "Wins": "0",
+        "Athletes": "33"
+    },
+    "Georgia": {
+        "Region": "Georgia",
+        "Bronze": "18",
+        "Silver": "6",
+        "Gold": "8",
+        "No Win": "254",
+        "Attempts": "286",
+        "Wins": "32",
+        "Athletes": "167"
+    },
+    "Germany": {
+        "Region": "Germany",
+        "Bronze": "1260",
+        "Silver": "1195",
+        "Gold": "1301",
+        "No Win": "12127",
+        "Attempts": "15883",
+        "Wins": "3756",
+        "Athletes": "7575"
+    },
+    "Ghana": {
+        "Region": "Ghana",
+        "Bronze": "22",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "336",
+        "Attempts": "359",
+        "Wins": "23",
+        "Athletes": "245"
+    },
+    "Greece": {
+        "Region": "Greece",
+        "Bronze": "84",
+        "Silver": "109",
+        "Gold": "62",
+        "No Win": "2937",
+        "Attempts": "3192",
+        "Wins": "255",
+        "Athletes": "1717"
+    },
+    "Grenada": {
+        "Region": "Grenada",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "52",
+        "Attempts": "54",
+        "Wins": "2",
+        "Athletes": "44"
+    },
+    "Guam": {
+        "Region": "Guam",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "112",
+        "Attempts": "112",
+        "Wins": "0",
+        "Athletes": "66"
+    },
+    "Guatemala": {
+        "Region": "Guatemala",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "424",
+        "Attempts": "425",
+        "Wins": "1",
+        "Athletes": "240"
+    },
+    "Guinea": {
+        "Region": "Guinea",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "73",
+        "Attempts": "73",
+        "Wins": "0",
+        "Athletes": "60"
+    },
+    "Guinea-Bissau": {
+        "Region": "Guinea-Bissau",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "21",
+        "Attempts": "21",
+        "Wins": "0",
+        "Athletes": "15"
+    },
+    "Guyana": {
+        "Region": "Guyana",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "101",
+        "Attempts": "102",
+        "Wins": "1",
+        "Athletes": "75"
+    },
+    "Haiti": {
+        "Region": "Haiti",
+        "Bronze": "5",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "99",
+        "Attempts": "106",
+        "Wins": "7",
+        "Athletes": "76"
+    },
+    "Honduras": {
+        "Region": "Honduras",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "189",
+        "Attempts": "189",
+        "Wins": "0",
+        "Athletes": "132"
+    },
+    "Hungary": {
+        "Region": "Hungary",
+        "Bronze": "371",
+        "Silver": "332",
+        "Gold": "432",
+        "No Win": "5472",
+        "Attempts": "6607",
+        "Wins": "1135",
+        "Athletes": "2761"
+    },
+    "Iceland": {
+        "Region": "Iceland",
+        "Bronze": "2",
+        "Silver": "15",
+        "Gold": "0",
+        "No Win": "610",
+        "Attempts": "627",
+        "Wins": "17",
+        "Athletes": "297"
+    },
+    "India": {
+        "Region": "India",
+        "Bronze": "40",
+        "Silver": "19",
+        "Gold": "138",
+        "No Win": "1211",
+        "Attempts": "1408",
+        "Wins": "197",
+        "Athletes": "892"
+    },
+    "Individual Olympic Athletes": {
+        "Region": "Individual Olympic Athletes",
+        "Bronze": "3",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "89",
+        "Attempts": "94",
+        "Wins": "5",
+        "Athletes": "76"
+    },
+    "Indonesia": {
+        "Region": "Indonesia",
+        "Bronze": "13",
+        "Silver": "17",
+        "Gold": "11",
+        "No Win": "371",
+        "Attempts": "412",
+        "Wins": "41",
+        "Athletes": "275"
+    },
+    "Iran": {
+        "Region": "Iran",
+        "Bronze": "29",
+        "Silver": "21",
+        "Gold": "18",
+        "No Win": "721",
+        "Attempts": "789",
+        "Wins": "68",
+        "Athletes": "526"
+    },
+    "Iraq": {
+        "Region": "Iraq",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "231",
+        "Attempts": "232",
+        "Wins": "1",
+        "Athletes": "194"
+    },
+    "Ireland": {
+        "Region": "Ireland",
+        "Bronze": "13",
+        "Silver": "13",
+        "Gold": "9",
+        "No Win": "1290",
+        "Attempts": "1325",
+        "Wins": "35",
+        "Athletes": "800"
+    },
+    "Israel": {
+        "Region": "Israel",
+        "Bronze": "7",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "656",
+        "Attempts": "665",
+        "Wins": "9",
+        "Athletes": "353"
+    },
+    "Italy": {
+        "Region": "Italy",
+        "Bronze": "531",
+        "Silver": "531",
+        "Gold": "575",
+        "No Win": "9078",
+        "Attempts": "10715",
+        "Wins": "1637",
+        "Athletes": "4935"
+    },
+    "Ivory Coast": {
+        "Region": "Ivory Coast",
+        "Bronze": "1",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "190",
+        "Attempts": "193",
+        "Wins": "3",
+        "Athletes": "124"
+    },
+    "Jamaica": {
+        "Region": "Jamaica",
+        "Bronze": "44",
+        "Silver": "75",
+        "Gold": "38",
+        "No Win": "691",
+        "Attempts": "848",
+        "Wins": "157",
+        "Athletes": "370"
+    },
+    "Japan": {
+        "Region": "Japan",
+        "Bronze": "357",
+        "Silver": "309",
+        "Gold": "247",
+        "No Win": "7531",
+        "Attempts": "8444",
+        "Wins": "913",
+        "Athletes": "4067"
+    },
+    "Jordan": {
+        "Region": "Jordan",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "79",
+        "Attempts": "80",
+        "Wins": "1",
+        "Athletes": "61"
+    },
+    "Kazakhstan": {
+        "Region": "Kazakhstan",
+        "Bronze": "32",
+        "Silver": "25",
+        "Gold": "20",
+        "No Win": "1352",
+        "Attempts": "1429",
+        "Wins": "77",
+        "Athletes": "694"
+    },
+    "Kenya": {
+        "Region": "Kenya",
+        "Bronze": "31",
+        "Silver": "41",
+        "Gold": "34",
+        "No Win": "666",
+        "Attempts": "772",
+        "Wins": "106",
+        "Athletes": "515"
+    },
+    "Kiribati": {
+        "Region": "Kiribati",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "11",
+        "Attempts": "11",
+        "Wins": "0",
+        "Athletes": "9"
+    },
+    "Kosovo": {
+        "Region": "Kosovo",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "7",
+        "Attempts": "8",
+        "Wins": "1",
+        "Athletes": "8"
+    },
+    "Kuwait": {
+        "Region": "Kuwait",
+        "Bronze": "2",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "282",
+        "Attempts": "284",
+        "Wins": "2",
+        "Athletes": "192"
+    },
+    "Kyrgyzstan": {
+        "Region": "Kyrgyzstan",
+        "Bronze": "2",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "224",
+        "Attempts": "227",
+        "Wins": "3",
+        "Athletes": "129"
+    },
+    "Laos": {
+        "Region": "Laos",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "54",
+        "Attempts": "54",
+        "Wins": "0",
+        "Athletes": "47"
+    },
+    "Latvia": {
+        "Region": "Latvia",
+        "Bronze": "13",
+        "Silver": "19",
+        "Gold": "3",
+        "No Win": "916",
+        "Attempts": "951",
+        "Wins": "35",
+        "Athletes": "445"
+    },
+    "Lebanon": {
+        "Region": "Lebanon",
+        "Bronze": "2",
+        "Silver": "2",
+        "Gold": "0",
+        "No Win": "325",
+        "Attempts": "329",
+        "Wins": "4",
+        "Athletes": "176"
+    },
+    "Lesotho": {
+        "Region": "Lesotho",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "66",
+        "Attempts": "66",
+        "Wins": "0",
+        "Athletes": "51"
+    },
+    "Liberia": {
+        "Region": "Liberia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "74",
+        "Attempts": "74",
+        "Wins": "0",
+        "Athletes": "42"
+    },
+    "Libya": {
+        "Region": "Libya",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "84",
+        "Attempts": "84",
+        "Wins": "0",
+        "Athletes": "68"
+    },
+    "Liechtenstein": {
+        "Region": "Liechtenstein",
+        "Bronze": "5",
+        "Silver": "2",
+        "Gold": "2",
+        "No Win": "360",
+        "Attempts": "369",
+        "Wins": "9",
+        "Athletes": "131"
+    },
+    "Lithuania": {
+        "Region": "Lithuania",
+        "Bronze": "48",
+        "Silver": "7",
+        "Gold": "6",
+        "No Win": "593",
+        "Attempts": "654",
+        "Wins": "61",
+        "Athletes": "320"
+    },
+    "Luxembourg": {
+        "Region": "Luxembourg",
+        "Bronze": "0",
+        "Silver": "4",
+        "Gold": "4",
+        "No Win": "988",
+        "Attempts": "996",
+        "Wins": "8",
+        "Athletes": "379"
+    },
+    "Macedonia": {
+        "Region": "Macedonia",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "83",
+        "Attempts": "84",
+        "Wins": "1",
+        "Athletes": "47"
+    },
+    "Madagascar": {
+        "Region": "Madagascar",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "119",
+        "Attempts": "119",
+        "Wins": "0",
+        "Athletes": "76"
+    },
+    "Malawi": {
+        "Region": "Malawi",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "87",
+        "Attempts": "87",
+        "Wins": "0",
+        "Athletes": "59"
+    },
+    "Malaysia": {
+        "Region": "Malaysia",
+        "Bronze": "5",
+        "Silver": "11",
+        "Gold": "0",
+        "No Win": "561",
+        "Attempts": "577",
+        "Wins": "16",
+        "Athletes": "340"
+    },
+    "Maldives": {
+        "Region": "Maldives",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "49",
+        "Attempts": "49",
+        "Wins": "0",
+        "Athletes": "31"
+    },
+    "Mali": {
+        "Region": "Mali",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "92",
+        "Attempts": "92",
+        "Wins": "0",
+        "Athletes": "75"
+    },
+    "Malta": {
+        "Region": "Malta",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "118",
+        "Attempts": "118",
+        "Wins": "0",
+        "Athletes": "82"
+    },
+    "Marshall Islands": {
+        "Region": "Marshall Islands",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "14",
+        "Attempts": "14",
+        "Wins": "0",
+        "Athletes": "12"
+    },
+    "Mauritania": {
+        "Region": "Mauritania",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "29",
+        "Attempts": "29",
+        "Wins": "0",
+        "Athletes": "22"
+    },
+    "Mauritius": {
+        "Region": "Mauritius",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "143",
+        "Attempts": "144",
+        "Wins": "1",
+        "Athletes": "88"
+    },
+    "Mexico": {
+        "Region": "Mexico",
+        "Bronze": "54",
+        "Silver": "26",
+        "Gold": "30",
+        "No Win": "2770",
+        "Attempts": "2880",
+        "Wins": "110",
+        "Athletes": "1549"
+    },
+    "Micronesia": {
+        "Region": "Micronesia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "26",
+        "Attempts": "26",
+        "Wins": "0",
+        "Athletes": "18"
+    },
+    "Moldova": {
+        "Region": "Moldova",
+        "Bronze": "5",
+        "Silver": "3",
+        "Gold": "0",
+        "No Win": "226",
+        "Attempts": "234",
+        "Wins": "8",
+        "Athletes": "131"
+    },
+    "Monaco": {
+        "Region": "Monaco",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "196",
+        "Attempts": "197",
+        "Wins": "1",
+        "Athletes": "82"
+    },
+    "Mongolia": {
+        "Region": "Mongolia",
+        "Bronze": "14",
+        "Silver": "10",
+        "Gold": "2",
+        "No Win": "524",
+        "Attempts": "550",
+        "Wins": "26",
+        "Athletes": "292"
+    },
+    "Montenegro": {
+        "Region": "Montenegro",
+        "Bronze": "0",
+        "Silver": "14",
+        "Gold": "0",
+        "No Win": "80",
+        "Attempts": "94",
+        "Wins": "14",
+        "Athletes": "55"
+    },
+    "Morocco": {
+        "Region": "Morocco",
+        "Bronze": "12",
+        "Silver": "5",
+        "Gold": "6",
+        "No Win": "659",
+        "Attempts": "682",
+        "Wins": "23",
+        "Athletes": "460"
+    },
+    "Mozambique": {
+        "Region": "Mozambique",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "76",
+        "Attempts": "78",
+        "Wins": "2",
+        "Athletes": "52"
+    },
+    "Myanmar": {
+        "Region": "Myanmar",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "111",
+        "Attempts": "111",
+        "Wins": "0",
+        "Athletes": "86"
+    },
+    "Namibia": {
+        "Region": "Namibia",
+        "Bronze": "0",
+        "Silver": "4",
+        "Gold": "0",
+        "No Win": "73",
+        "Attempts": "77",
+        "Wins": "4",
+        "Athletes": "40"
+    },
+    "Nauru": {
+        "Region": "Nauru",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "13",
+        "Attempts": "13",
+        "Wins": "0",
+        "Athletes": "10"
+    },
+    "Nepal": {
+        "Region": "Nepal",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "93",
+        "Attempts": "94",
+        "Wins": "1",
+        "Athletes": "80"
+    },
+    "Netherlands": {
+        "Region": "Netherlands",
+        "Bronze": "413",
+        "Silver": "340",
+        "Gold": "287",
+        "No Win": "4799",
+        "Attempts": "5839",
+        "Wins": "1040",
+        "Athletes": "2939"
+    },
+    "New Zealand": {
+        "Region": "New Zealand",
+        "Bronze": "82",
+        "Silver": "56",
+        "Gold": "90",
+        "No Win": "2114",
+        "Attempts": "2342",
+        "Wins": "228",
+        "Athletes": "1326"
+    },
+    "Nicaragua": {
+        "Region": "Nicaragua",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "129",
+        "Attempts": "129",
+        "Wins": "0",
+        "Athletes": "95"
+    },
+    "Niger": {
+        "Region": "Niger",
+        "Bronze": "1",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "45",
+        "Attempts": "47",
+        "Wins": "2",
+        "Athletes": "42"
+    },
+    "Nigeria": {
+        "Region": "Nigeria",
+        "Bronze": "46",
+        "Silver": "30",
+        "Gold": "23",
+        "No Win": "783",
+        "Attempts": "882",
+        "Wins": "99",
+        "Athletes": "565"
+    },
+    "North Korea": {
+        "Region": "North Korea",
+        "Bronze": "35",
+        "Silver": "16",
+        "Gold": "16",
+        "No Win": "740",
+        "Attempts": "807",
+        "Wins": "67",
+        "Athletes": "405"
+    },
+    "Norway": {
+        "Region": "Norway",
+        "Bronze": "294",
+        "Silver": "361",
+        "Gold": "378",
+        "No Win": "3927",
+        "Attempts": "4960",
+        "Wins": "1033",
+        "Athletes": "2216"
+    },
+    "Oman": {
+        "Region": "Oman",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "66",
+        "Attempts": "66",
+        "Wins": "0",
+        "Athletes": "42"
+    },
+    "Pakistan": {
+        "Region": "Pakistan",
+        "Bronze": "34",
+        "Silver": "45",
+        "Gold": "42",
+        "No Win": "441",
+        "Attempts": "562",
+        "Wins": "121",
+        "Athletes": "363"
+    },
+    "Palau": {
+        "Region": "Palau",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "25",
+        "Attempts": "25",
+        "Wins": "0",
+        "Athletes": "21"
+    },
+    "Palestine": {
+        "Region": "Palestine",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "21",
+        "Attempts": "21",
+        "Wins": "0",
+        "Athletes": "20"
+    },
+    "Panama": {
+        "Region": "Panama",
+        "Bronze": "2",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "136",
+        "Attempts": "139",
+        "Wins": "3",
+        "Athletes": "86"
+    },
+    "Papua New Guinea": {
+        "Region": "Papua New Guinea",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "108",
+        "Attempts": "108",
+        "Wins": "0",
+        "Athletes": "61"
+    },
+    "Paraguay": {
+        "Region": "Paraguay",
+        "Bronze": "0",
+        "Silver": "17",
+        "Gold": "0",
+        "No Win": "118",
+        "Attempts": "135",
+        "Wins": "17",
+        "Athletes": "104"
+    },
+    "Peru": {
+        "Region": "Peru",
+        "Bronze": "0",
+        "Silver": "14",
+        "Gold": "1",
+        "No Win": "517",
+        "Attempts": "532",
+        "Wins": "15",
+        "Athletes": "353"
+    },
+    "Philippines": {
+        "Region": "Philippines",
+        "Bronze": "7",
+        "Silver": "3",
+        "Gold": "0",
+        "No Win": "684",
+        "Attempts": "694",
+        "Wins": "10",
+        "Athletes": "389"
+    },
+    "Poland": {
+        "Region": "Poland",
+        "Bronze": "253",
+        "Silver": "195",
+        "Gold": "117",
+        "No Win": "5642",
+        "Attempts": "6207",
+        "Wins": "565",
+        "Athletes": "2970"
+    },
+    "Portugal": {
+        "Region": "Portugal",
+        "Bronze": "26",
+        "Silver": "11",
+        "Gold": "4",
+        "No Win": "1481",
+        "Attempts": "1522",
+        "Wins": "41",
+        "Athletes": "730"
+    },
+    "Puerto Rico": {
+        "Region": "Puerto Rico",
+        "Bronze": "6",
+        "Silver": "2",
+        "Gold": "1",
+        "No Win": "918",
+        "Attempts": "927",
+        "Wins": "9",
+        "Athletes": "562"
+    },
+    "Qatar": {
+        "Region": "Qatar",
+        "Bronze": "4",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "187",
+        "Attempts": "192",
+        "Wins": "5",
+        "Athletes": "141"
+    },
+    "Republic of Congo": {
+        "Region": "Republic of Congo",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "105",
+        "Attempts": "105",
+        "Wins": "0",
+        "Athletes": "74"
+    },
+    "Romania": {
+        "Region": "Romania",
+        "Bronze": "292",
+        "Silver": "200",
+        "Gold": "161",
+        "No Win": "3752",
+        "Attempts": "4405",
+        "Wins": "653",
+        "Athletes": "1798"
+    },
+    "Russia": {
+        "Region": "Russia",
+        "Bronze": "1178",
+        "Silver": "1170",
+        "Gold": "1599",
+        "No Win": "7745",
+        "Attempts": "11692",
+        "Wins": "3947",
+        "Athletes": "5610"
+    },
+    "Rwanda": {
+        "Region": "Rwanda",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "56",
+        "Attempts": "56",
+        "Wins": "0",
+        "Athletes": "37"
+    },
+    "Saint Kitts": {
+        "Region": "Saint Kitts",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "42",
+        "Attempts": "42",
+        "Wins": "0",
+        "Athletes": "19"
+    },
+    "Saint Lucia": {
+        "Region": "Saint Lucia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "28",
+        "Attempts": "28",
+        "Wins": "0",
+        "Athletes": "21"
+    },
+    "Saint Vincent": {
+        "Region": "Saint Vincent",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "42",
+        "Attempts": "42",
+        "Wins": "0",
+        "Athletes": "28"
+    },
+    "Samoa": {
+        "Region": "Samoa",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "63",
+        "Attempts": "63",
+        "Wins": "0",
+        "Athletes": "53"
+    },
+    "San Marino": {
+        "Region": "San Marino",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "181",
+        "Attempts": "181",
+        "Wins": "0",
+        "Athletes": "92"
+    },
+    "Sao Tome and Principe": {
+        "Region": "Sao Tome and Principe",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "15",
+        "Attempts": "15",
+        "Wins": "0",
+        "Athletes": "13"
+    },
+    "Saudi Arabia": {
+        "Region": "Saudi Arabia",
+        "Bronze": "5",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "224",
+        "Attempts": "230",
+        "Wins": "6",
+        "Athletes": "149"
+    },
+    "Senegal": {
+        "Region": "Senegal",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "392",
+        "Attempts": "393",
+        "Wins": "1",
+        "Athletes": "234"
+    },
+    "Serbia": {
+        "Region": "Serbia",
+        "Bronze": "160",
+        "Silver": "222",
+        "Gold": "157",
+        "No Win": "2757",
+        "Attempts": "3296",
+        "Wins": "539",
+        "Athletes": "1661"
+    },
+    "Seychelles": {
+        "Region": "Seychelles",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "111",
+        "Attempts": "111",
+        "Wins": "0",
+        "Athletes": "64"
+    },
+    "Sierra Leone": {
+        "Region": "Sierra Leone",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "114",
+        "Attempts": "114",
+        "Wins": "0",
+        "Athletes": "62"
+    },
+    "Slovakia": {
+        "Region": "Slovakia",
+        "Bronze": "13",
+        "Silver": "19",
+        "Gold": "15",
+        "No Win": "1008",
+        "Attempts": "1055",
+        "Wins": "47",
+        "Athletes": "457"
+    },
+    "Slovenia": {
+        "Region": "Slovenia",
+        "Bronze": "27",
+        "Silver": "13",
+        "Gold": "8",
+        "No Win": "1063",
+        "Attempts": "1111",
+        "Wins": "48",
+        "Athletes": "420"
+    },
+    "Solomon Islands": {
+        "Region": "Solomon Islands",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "27",
+        "Attempts": "27",
+        "Wins": "0",
+        "Athletes": "20"
+    },
+    "Somalia": {
+        "Region": "Somalia",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "32",
+        "Attempts": "32",
+        "Wins": "0",
+        "Athletes": "22"
+    },
+    "South Africa": {
+        "Region": "South Africa",
+        "Bronze": "52",
+        "Silver": "47",
+        "Gold": "32",
+        "No Win": "1580",
+        "Attempts": "1711",
+        "Wins": "131",
+        "Athletes": "963"
+    },
+    "South Korea": {
+        "Region": "South Korea",
+        "Bronze": "185",
+        "Silver": "232",
+        "Gold": "221",
+        "No Win": "3826",
+        "Attempts": "4464",
+        "Wins": "638",
+        "Athletes": "2393"
+    },
+    "South Sudan": {
+        "Region": "South Sudan",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "3",
+        "Attempts": "3",
+        "Wins": "0",
+        "Athletes": "3"
+    },
+    "Spain": {
+        "Region": "Spain",
+        "Bronze": "136",
+        "Silver": "243",
+        "Gold": "110",
+        "No Win": "4824",
+        "Attempts": "5313",
+        "Wins": "489",
+        "Athletes": "2637"
+    },
+    "Sri Lanka": {
+        "Region": "Sri Lanka",
+        "Bronze": "0",
+        "Silver": "2",
+        "Gold": "0",
+        "No Win": "144",
+        "Attempts": "146",
+        "Wins": "2",
+        "Athletes": "93"
+    },
+    "Sudan": {
+        "Region": "Sudan",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "106",
+        "Attempts": "107",
+        "Wins": "1",
+        "Athletes": "81"
+    },
+    "Suriname": {
+        "Region": "Suriname",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "67",
+        "Attempts": "69",
+        "Wins": "2",
+        "Athletes": "33"
+    },
+    "Swaziland": {
+        "Region": "Swaziland",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "67",
+        "Attempts": "67",
+        "Wins": "0",
+        "Athletes": "42"
+    },
+    "Sweden": {
+        "Region": "Sweden",
+        "Bronze": "535",
+        "Silver": "522",
+        "Gold": "479",
+        "No Win": "6803",
+        "Attempts": "8339",
+        "Wins": "1536",
+        "Athletes": "3787"
+    },
+    "Switzerland": {
+        "Region": "Switzerland",
+        "Bronze": "268",
+        "Silver": "248",
+        "Gold": "175",
+        "No Win": "5459",
+        "Attempts": "6150",
+        "Wins": "691",
+        "Athletes": "2883"
+    },
+    "Syria": {
+        "Region": "Syria",
+        "Bronze": "2",
+        "Silver": "2",
+        "Gold": "1",
+        "No Win": "274",
+        "Attempts": "279",
+        "Wins": "5",
+        "Athletes": "206"
+    },
+    "Taiwan": {
+        "Region": "Taiwan",
+        "Bronze": "18",
+        "Silver": "28",
+        "Gold": "3",
+        "No Win": "1048",
+        "Attempts": "1097",
+        "Wins": "49",
+        "Athletes": "566"
+    },
+    "Tajikistan": {
+        "Region": "Tajikistan",
+        "Bronze": "2",
+        "Silver": "1",
+        "Gold": "1",
+        "No Win": "66",
+        "Attempts": "70",
+        "Wins": "4",
+        "Athletes": "45"
+    },
+    "Tanzania": {
+        "Region": "Tanzania",
+        "Bronze": "0",
+        "Silver": "2",
+        "Gold": "0",
+        "No Win": "159",
+        "Attempts": "161",
+        "Wins": "2",
+        "Athletes": "110"
+    },
+    "Thailand": {
+        "Region": "Thailand",
+        "Bronze": "13",
+        "Silver": "8",
+        "Gold": "9",
+        "No Win": "717",
+        "Attempts": "747",
+        "Wins": "30",
+        "Athletes": "462"
+    },
+    "Timor-Leste": {
+        "Region": "Timor-Leste",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "9",
+        "Attempts": "9",
+        "Wins": "0",
+        "Athletes": "8"
+    },
+    "Togo": {
+        "Region": "Togo",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "58",
+        "Attempts": "59",
+        "Wins": "1",
+        "Athletes": "42"
+    },
+    "Tonga": {
+        "Region": "Tonga",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "45",
+        "Attempts": "46",
+        "Wins": "1",
+        "Athletes": "38"
+    },
+    "Trinidad": {
+        "Region": "Trinidad",
+        "Bronze": "22",
+        "Silver": "8",
+        "Gold": "7",
+        "No Win": "358",
+        "Attempts": "395",
+        "Wins": "37",
+        "Athletes": "178"
+    },
+    "Tunisia": {
+        "Region": "Tunisia",
+        "Bronze": "7",
+        "Silver": "3",
+        "Gold": "3",
+        "No Win": "548",
+        "Attempts": "561",
+        "Wins": "13",
+        "Athletes": "416"
+    },
+    "Turkey": {
+        "Region": "Turkey",
+        "Bronze": "28",
+        "Silver": "27",
+        "Gold": "40",
+        "No Win": "1261",
+        "Attempts": "1356",
+        "Wins": "95",
+        "Athletes": "808"
+    },
+    "Turkmenistan": {
+        "Region": "Turkmenistan",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "54",
+        "Attempts": "54",
+        "Wins": "0",
+        "Athletes": "41"
+    },
+    "Uganda": {
+        "Region": "Uganda",
+        "Bronze": "2",
+        "Silver": "3",
+        "Gold": "2",
+        "No Win": "253",
+        "Attempts": "260",
+        "Wins": "7",
+        "Athletes": "178"
+    },
+    "UK": {
+        "Region": "UK",
+        "Bronze": "651",
+        "Silver": "739",
+        "Gold": "678",
+        "No Win": "10188",
+        "Attempts": "12256",
+        "Wins": "2068",
+        "Athletes": "6281"
+    },
+    "Ukraine": {
+        "Region": "Ukraine",
+        "Bronze": "100",
+        "Silver": "52",
+        "Gold": "47",
+        "No Win": "2360",
+        "Attempts": "2559",
+        "Wins": "199",
+        "Athletes": "1134"
+    },
+    "United Arab Emirates": {
+        "Region": "United Arab Emirates",
+        "Bronze": "1",
+        "Silver": "0",
+        "Gold": "1",
+        "No Win": "142",
+        "Attempts": "144",
+        "Wins": "2",
+        "Athletes": "78"
+    },
+    "Uruguay": {
+        "Region": "Uruguay",
+        "Bronze": "30",
+        "Silver": "2",
+        "Gold": "31",
+        "No Win": "513",
+        "Attempts": "576",
+        "Wins": "63",
+        "Athletes": "366"
+    },
+    "USA": {
+        "Region": "USA",
+        "Bronze": "1358",
+        "Silver": "1641",
+        "Gold": "2638",
+        "No Win": "13216",
+        "Attempts": "18853",
+        "Wins": "5637",
+        "Athletes": "9653"
+    },
+    "Uzbekistan": {
+        "Region": "Uzbekistan",
+        "Bronze": "17",
+        "Silver": "7",
+        "Gold": "10",
+        "No Win": "461",
+        "Attempts": "495",
+        "Wins": "34",
+        "Athletes": "295"
+    },
+    "Vanuatu": {
+        "Region": "Vanuatu",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "35",
+        "Attempts": "35",
+        "Wins": "0",
+        "Athletes": "25"
+    },
+    "Venezuela": {
+        "Region": "Venezuela",
+        "Bronze": "10",
+        "Silver": "3",
+        "Gold": "2",
+        "No Win": "910",
+        "Attempts": "925",
+        "Wins": "15",
+        "Athletes": "549"
+    },
+    "Vietnam": {
+        "Region": "Vietnam",
+        "Bronze": "0",
+        "Silver": "3",
+        "Gold": "1",
+        "No Win": "212",
+        "Attempts": "216",
+        "Wins": "4",
+        "Athletes": "143"
+    },
+    "Virgin Islands, British": {
+        "Region": "Virgin Islands, British",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "45",
+        "Attempts": "45",
+        "Wins": "0",
+        "Athletes": "28"
+    },
+    "Virgin Islands, US": {
+        "Region": "Virgin Islands, US",
+        "Bronze": "0",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "293",
+        "Attempts": "294",
+        "Wins": "1",
+        "Athletes": "150"
+    },
+    "Yemen": {
+        "Region": "Yemen",
+        "Bronze": "0",
+        "Silver": "0",
+        "Gold": "0",
+        "No Win": "48",
+        "Attempts": "48",
+        "Wins": "0",
+        "Athletes": "43"
+    },
+    "Zambia": {
+        "Region": "Zambia",
+        "Bronze": "1",
+        "Silver": "1",
+        "Gold": "0",
+        "No Win": "181",
+        "Attempts": "183",
+        "Wins": "2",
+        "Athletes": "145"
+    },
+    "Zimbabwe": {
+        "Region": "Zimbabwe",
+        "Bronze": "1",
+        "Silver": "4",
+        "Gold": "17",
+        "No Win": "301",
+        "Attempts": "323",
+        "Wins": "22",
+        "Athletes": "205"
+    }
+}
