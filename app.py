@@ -15,14 +15,14 @@ tester = db.Barchart
 @app.route("/api/test", methods = ["GET"])
 def api_output():
     try:
-        return f'{tester.find({})}'
+        print("this works")
+        return jsonify(f'{list(tester.find())}')
     except Exception as ex:
         print(ex)
         return Response(
             response= json.dumps({"message":"Messed up"}),
             status = 500
         )
-
 
 @app.route("/")
 def welcome():
