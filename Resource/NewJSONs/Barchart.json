@@ -1,0 +1,321 @@
+[{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b93"
+  },
+  "Category": "Country",
+  "Item": "USA",
+  "Gold": 2638,
+  "Total Medals": 5637
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b94"
+  },
+  "Category": "Country",
+  "Item": "Russia",
+  "Gold": 1599,
+  "Total Medals": 3947
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b95"
+  },
+  "Category": "Country",
+  "Item": "Germany",
+  "Gold": 1301,
+  "Total Medals": 3756
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b96"
+  },
+  "Category": "Country",
+  "Item": "UK",
+  "Gold": 678,
+  "Total Medals": 2068
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b97"
+  },
+  "Category": "Country",
+  "Item": "Italy",
+  "Gold": 575,
+  "Total Medals": 1637
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b98"
+  },
+  "Category": "Country",
+  "Item": "France",
+  "Gold": 501,
+  "Total Medals": 1777
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b99"
+  },
+  "Category": "Country",
+  "Item": "Sweden",
+  "Gold": 479,
+  "Total Medals": 1536
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9a"
+  },
+  "Category": "Country",
+  "Item": "Canada",
+  "Gold": 463,
+  "Total Medals": 1352
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9b"
+  },
+  "Category": "Country",
+  "Item": "Hungary",
+  "Gold": 432,
+  "Total Medals": 1135
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9c"
+  },
+  "Category": "Country",
+  "Item": "Norway",
+  "Gold": 378,
+  "Total Medals": 1033
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9d"
+  },
+  "Category": "Athlete",
+  "Item": "Michael Fred Phelps, II",
+  "Gold": 23,
+  "Total Medals": 28
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9e"
+  },
+  "Category": "Athlete",
+  "Item": "Raymond Clarence \"Ray\" Ewry",
+  "Gold": 10,
+  "Total Medals": 10
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9b9f"
+  },
+  "Category": "Athlete",
+  "Item": "Mark Andrew Spitz",
+  "Gold": 9,
+  "Total Medals": 11
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba0"
+  },
+  "Category": "Athlete",
+  "Item": "Paavo Johannes Nurmi",
+  "Gold": 9,
+  "Total Medals": 12
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba1"
+  },
+  "Category": "Athlete",
+  "Item": "Frederick Carlton \"Carl\" Lewis",
+  "Gold": 9,
+  "Total Medals": 10
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba2"
+  },
+  "Category": "Athlete",
+  "Item": "Larysa Semenivna Latynina (Diriy-)",
+  "Gold": 9,
+  "Total Medals": 18
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba3"
+  },
+  "Category": "Athlete",
+  "Item": "Jennifer Elisabeth \"Jenny\" Thompson (-Cumpelik)",
+  "Gold": 8,
+  "Total Medals": 12
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba4"
+  },
+  "Category": "Athlete",
+  "Item": "Birgit Fischer-Schmidt",
+  "Gold": 8,
+  "Total Medals": 12
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba5"
+  },
+  "Category": "Athlete",
+  "Item": "Sawao Kato",
+  "Gold": 8,
+  "Total Medals": 12
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba6"
+  },
+  "Category": "Athlete",
+  "Item": "Matthew Nicholas \"Matt\" Biondi",
+  "Gold": 8,
+  "Total Medals": 11
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba7"
+  },
+  "Category": "Events",
+  "Item": "Football Men's Football",
+  "Gold": 414,
+  "Total Medals": 1269
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba8"
+  },
+  "Category": "Events",
+  "Item": "Ice Hockey Men's Ice Hockey",
+  "Gold": 407,
+  "Total Medals": 1230
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9ba9"
+  },
+  "Category": "Events",
+  "Item": "Hockey Men's Hockey",
+  "Gold": 360,
+  "Total Medals": 1050
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9baa"
+  },
+  "Category": "Events",
+  "Item": "Water Polo Men's Water Polo",
+  "Gold": 287,
+  "Total Medals": 866
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bab"
+  },
+  "Category": "Events",
+  "Item": "Gymnastics Men's Team All-Around",
+  "Gold": 249,
+  "Total Medals": 713
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bac"
+  },
+  "Category": "Events",
+  "Item": "Rowing Men's Coxed Eights",
+  "Gold": 244,
+  "Total Medals": 730
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bad"
+  },
+  "Category": "Events",
+  "Item": "Basketball Men's Basketball",
+  "Gold": 234,
+  "Total Medals": 687
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bae"
+  },
+  "Category": "Events",
+  "Item": "Handball Men's Handball",
+  "Gold": 194,
+  "Total Medals": 588
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9baf"
+  },
+  "Category": "Events",
+  "Item": "Volleyball Men's Volleyball",
+  "Gold": 166,
+  "Total Medals": 495
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb0"
+  },
+  "Category": "Events",
+  "Item": "Hockey Women's Hockey",
+  "Gold": 158,
+  "Total Medals": 478
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb1"
+  },
+  "Category": "Sport",
+  "Item": "Athletics",
+  "Gold": 1339,
+  "Total Medals": 3969
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb2"
+  },
+  "Category": "Sport",
+  "Item": "Swimming",
+  "Gold": 1098,
+  "Total Medals": 3047
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb3"
+  },
+  "Category": "Sport",
+  "Item": "Rowing",
+  "Gold": 978,
+  "Total Medals": 2945
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb4"
+  },
+  "Category": "Sport",
+  "Item": "Gymnastics",
+  "Gold": 791,
+  "Total Medals": 2256
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb5"
+  },
+  "Category": "Sport",
+  "Item": "Fencing",
+  "Gold": 594,
+  "Total Medals": 1743
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb6"
+  },
+  "Category": "Sport",
+  "Item": "Hockey",
+  "Gold": 518,
+  "Total Medals": 1528
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb7"
+  },
+  "Category": "Sport",
+  "Item": "Football",
+  "Gold": 515,
+  "Total Medals": 1571
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb8"
+  },
+  "Category": "Sport",
+  "Item": "Ice Hockey",
+  "Gold": 508,
+  "Total Medals": 1530
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bb9"
+  },
+  "Category": "Sport",
+  "Item": "Sailing",
+  "Gold": 450,
+  "Total Medals": 1232
+},{
+  "_id": {
+    "$oid": "61589a22cd5cc36ad5fc9bba"
+  },
+  "Category": "Sport",
+  "Item": "Cycling",
+  "Gold": 424,
+  "Total Medals": 1263
+}]
