@@ -1,0 +1,179 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1569517282132-25d22f4573e6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3132&q=80");
+    height: 850px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+  
+  .navbar {
+    max-height: 50px;
+  }
+  .navigation .navbar-brand {
+    color: rgb(52, 149, 165);
+    margin-left: 0px;
+    padding: inherit;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    font-family: cochin;
+  }
+  .navbar {
+    background-color: rgb(255, 255, 255);
+    font-size: 25px; 
+  }
+  .active, .dropdown-menu .dropdown-item:active a:hover {
+    background-color: rgb(255,255,255);
+  }
+  .dropdown-item {
+    color: rgba(52, 150, 165, 0.75);
+  }
+  .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: rgba(52, 150, 165, 0.75);
+  }
+  
+  .nav-link:hover {
+    background-color:rgba(52, 150, 165, 0.75);
+   }
+  
+  .navbar-brand:hover {
+  color: rgb(45, 158, 175);
+  }
+  a {
+    color: rgb(231, 231, 231);
+    font-size: 20px;
+  }
+  
+  .active, .panel:hover {
+    border-color:rgb(52, 149, 165);
+    border-style: solid;
+    
+  }
+  .vizualization {
+    width:50%;
+    height:50%;
+  }
+  
+  .title {
+    color: rgb(52, 149, 165);
+    font-family: cochin;
+    font-weight: bolder;
+    padding-top: 10px;
+  }
+  
+  p {
+  color: rgb(52, 149, 165);
+  font-family: 'segoe ui';
+  font-size: 16px;
+  }
+  
+  .box {
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding: 10px 30px 10px;
+    color: #ffffff;
+    background-color: rgb(255, 255, 255);
+  
+  }
+  
+  .table {
+    font-size: 15px;
+    border-top-color: rgb(255, 255, 255);
+  }
+  
+  footer {
+  background-color: #000000;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: rgb(37, 80, 87);
+  color: rgb(171, 222, 226);
+  min-height: 50px;
+  font-family: Menlo, Helvetica, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 15px;
+  }
+  
+  @media(max-width: 992px) {
+    .navbar-expand-lg {
+    background-color: #000000;
+    }
+    .navbar {
+      max-height: none;
+      padding: inherit;
+    }
+    .navbar div {
+      margin: inherit;
+      background-color: rgb(255,255,255);
+    }
+    .navbar-brand {
+      padding: 10px;
+    }
+    button{
+      margin-right: 30px;
+    }
+    button:focus {
+      outline: 1px dotted;
+      outline: auto 5px;
+    }
+  }
+
+
+.sidemenu{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: linear-gradient(#f45925, #a68a43);
+    margin-left: -250px;
+    transition: 0.5s;
+    z-index: 1;
+
+}
+
+.sidemenu ul{
+    list-style: none;
+    padding: 0;
+    margin-top: 45px;
+    margin-left: 45px;
+
+}
+
+.sidemenu a{
+    text-decoration: none;
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+    color: white;
+    display: block;
+    transition: 0.5s;
+}
+
+.sidemenu a:hover{
+    color: #25f5c5;
+}
+
+.sidemenu a.active{
+    color: #25f5c5;
+}
+
+.main{
+    transition: 0.5s;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+.expand-arrow{
+    transition: 0.5s;
+    position: fixed;
+    bottom: 50%;
+
+}
+
