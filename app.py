@@ -68,17 +68,17 @@ def api_output_medalsovertime():
             status = 500
         )
 
-@app.route("/api/1/AllData", methods = ["GET"])
-def api_output_AllData():
-    try:
-        print("this works")
-        return jsonify(f'{list(All_Data.find())}')
-    except Exception as ex:
-        print(ex)
-        return Response(
-            response= json.dumps({"message":"Messed up"}),
-            status = 500
-        )
+# @app.route("/api/1/AllData", methods = ["GET"])
+# def api_output_AllData():
+#     try:
+#         print("this works")
+#         return jsonify(f'{list(All_Data.find())}')
+#     except Exception as ex:
+#         print(ex)
+#         return Response(
+#             response= json.dumps({"message":"Messed up"}),
+#             status = 500
+#         )
 
 if __name__ == "__main__":
     app.run(debug=True)

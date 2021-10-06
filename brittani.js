@@ -29,12 +29,12 @@ labels.forEach(year=>{
     let males=year_filter.filter(data=>data.Sex==="M")
     let females=year_filter.filter(data=>data.Sex==="F")
     if (males.length>0){
-        male_data.push(males[0].Attempts)
+        male_data.push(males[0].Wins)
     } else {
         male_data.push(null)
     }
     if (females.length>0){
-        female_data.push(females[0].Attempts)
+        female_data.push(females[0].Wins)
     } else {
         female_data.push(null)
     }
@@ -96,12 +96,12 @@ labels.forEach(year=>{
     let males=year_filter.filter(data=>data.Sex==="M")
     let females=year_filter.filter(data=>data.Sex==="F")
     if (males.length>0){
-        male_data.push(males[0].Attempts)
+        male_data.push(males[0].Wins)
     } else {
         male_data.push(null)
     }
     if (females.length>0){
-        female_data.push(females[0].Attempts)
+        female_data.push(females[0].Wins)
     } else {
         female_data.push(null)
     }
