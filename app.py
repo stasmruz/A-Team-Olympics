@@ -10,10 +10,10 @@ client = pymongo.MongoClient(conn)
 
 # connect to mongo db and collection
 db = client.Olympic_data
-BarChart = db.Barchart
-GenderOverTime = db.GenderOverTime_db
-MapData = db.MapData_db
-MedalsOverTime = db.MedalsOverTime_db
+BarChart = db.Barchart_DB
+GenderOverTime = db.GenderOverTime_DB
+MapData = db.MapData_DB
+MedalsOverTime = db.MedalsOverTime_DB
 All_Data = db.AllData_DB
 
 @app.route("/api/1/BarChart", methods = ["GET"])
@@ -33,6 +33,7 @@ def api_output_genderovertime():
     try:
         print("this works")
         return jsonify(f'{list(GenderOverTime.find())}')
+        return "cool"
     except Exception as ex:
         print(ex)
         return Response(
