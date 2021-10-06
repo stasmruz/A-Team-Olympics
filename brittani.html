@@ -9,14 +9,11 @@
     <script src="https://d3js.org/d3.v5.min.js"></script>
 </head>
 <body>
-        
+    
     <label for="Sports">Sports:</label>
 
-    <select name="Sports" id="Sports">
-      <option value="123">Gymnastics</option>
-      <option value="Athletics">Athletics</option>
-      <option value="123">Sport3</option>
-      <option value="123">Sport4</option>
+    <select name="Sports" id="selDataset" onchange="updateChart(this.value)">
+      
     </select>
     <canvas id="plot"></canvas>
     <!-- <select id="selDataset">
