@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stas Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    
+    <label for="Region">Region:</label>
+
+    <select name="Region" id="selDataset" onchange="updateChart(this.value)">
+      
+    </select>
+    <canvas id="plot"></canvas>
+      <script src="Resource/MedalsOverTime.js"></script>
+      <script src="stas.js"></script>
+      
+</body>
+</html>
