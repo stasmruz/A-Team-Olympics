@@ -16,6 +16,10 @@ MapData = db.MapData_DB
 MedalsOverTime = db.MedalsOverTime_DB
 All_Data = db.AllData_DB
 
+@app.route("/")
+def welcome():
+    return render_template("index.html")
+
 @app.route("/api/1/BarChart", methods = ["GET"])
 def api_output_barchart():
     try:
@@ -33,7 +37,6 @@ def api_output_genderovertime():
     try:
         print("this works")
         return jsonify(f'{list(GenderOverTime.find())}')
-        return "cool"
     except Exception as ex:
         print(ex)
         return Response(
@@ -76,10 +79,6 @@ def api_output_AllData():
             response= json.dumps({"message":"Messed up"}),
             status = 500
         )
-
-@app.route("/")
-def welcome():
-    return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -7,9 +7,11 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Olympics</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
-<body>
+<!-- <body>
   <div class="container text-center">
     <h1 class="jumbotron">Olympics Data</h1>
   </div>
@@ -22,7 +24,25 @@
       /api/1/BarChart<br>
       /api/1/AllData<br>
     </p>
-  </div>
-</body>
+    </div>
 
+<div>
+    <label for="Sports">Sports:</label>
+
+    <select name="Sports" id="selDataset" onchange="updateChart(this.value)">
+      
+    </select>
+    <canvas id="plot"></canvas>
+    <script src="static/js/GenderOverTime.js"></script>
+  </div>
+</body> -->
+<body>
+    
+  <label for="Sports">Sports:</label>
+
+  <select name="Sports" id="selDataset" onchange="updateChart(this.value)">
+  </select>
+  <canvas id="plot"></canvas>
+  <script src="../static/js/GenderOverTime.js"></script>
+</body>
 </html>
