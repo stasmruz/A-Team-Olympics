@@ -17,4 +17,19 @@
 
 ### Technology used:
 
+<ol>
+<li>Tools: Jupyter Notebook and Visual Studio Code  </li>
+<li>Programming language: Python(pandas) and Javascript</li>
+<li>Database: MongoDB</li>
+</ol>
+
 ### The scope of the project: 
+<ol>
+<li>Create visualization using Pythyon Flask-pwered Api, HTML/CSS, Java Script, and at least one database</li>
+<li>Create a dashboard page with multiple interactive charts</li>
+<li>Presentation</li>
+</ol>
+
+#### References
+
+Sources: [https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results]

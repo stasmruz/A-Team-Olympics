@@ -1,7 +1,16 @@
+// Store our API endpoint as queryUrl.
+var queryUrl = "http://127.0.0.1:5000/api/1/GenderOverTime";
+let searchResults = [];
+// Perform a GET request to the query URL/
+d3.json(queryUrl).then(function (chart_data) {
+  searchResults = chart_data;
+  console.log(searchResults);
+
+console.log(searchResults)
 console.log("searchResults: ", searchResults);
 let selector = d3.select("#selDataset");
-let options = []
-default_filtered=searchResults.filter(result=>{
+let options = [];
+var default_filtered=searchResults.filter(result=>{
     if (!options.includes(result.Sport)){
         options.push(result.Sport)
         selector
@@ -71,7 +80,7 @@ const config = {
 
 let ctx=document.getElementById("plot").getContext("2d");
 let chart=new Chart(ctx,config)
-
+});
 
 
 function updateChart(selection){
