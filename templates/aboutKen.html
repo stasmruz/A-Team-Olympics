@@ -10,13 +10,15 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script defer src="Ken.js"></script>
     <link rel="stylesheet" href="Ken.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='js/Ken.css')}}">
+    <script defer src="{{ url_for('static', filename='js/Ken.js')}}"></script>
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap" rel="stylesheet">
     <title>About</title>
 </head>
 <body>
     <div class="navigation">
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" style="background-color: rgb(255,255,255);" href="../templates/index.html">A Team Dashboard</a>
+            <a class="navbar-brand" style="background-color: rgb(255,255,255);" href="/">A Team Dashboard</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -27,9 +29,9 @@
                             PLOTS
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <a class="dropdown-item" href="../brittani.html">Gender Over Time</a>
-                            <a class="dropdown-item" href="../stas.html">Medals Over Time</a>
-                            <a class="dropdown-item" href="../templates/countrychart.html">Country</a>
+                            <a class="dropdown-item" href="brittani">Gender Over Time</a>
+                            <a class="dropdown-item" href="stas">Medals Over Time</a>
+                            <a class="dropdown-item" href="countrychart">Country</a>
                         </div>
                     </li>
                     <li class="nav-item">
@@ -44,12 +46,12 @@
     </div>
     <div id="sideMenu" class="sidemenu" onmouseleave="closeMenu()">
         <ul>
-          <li><a href="../templates/index.html" class="active">Home</a></li>
+          <li><a href="/" class="active">Home</a></li>
           <li><a href="#">Charts</a></li>
-          <li><a href="aboutKen.html">About</a></li>
+          <li><a href="aboutKen">About</a></li>
         </ul>
      </div>
-     <img src="arrow.png" alt="Right arrow"
+     <img src="{{ url_for('static', filename='js/arrow.png')}}" alt="Right arrow"
       class="expand-arrow"
       id="expandArrow"
       onmouseover="openMenu()"

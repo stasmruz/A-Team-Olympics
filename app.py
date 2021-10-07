@@ -30,7 +30,11 @@ def stas():
 
 @app.route("/countrychart")
 def countrychart():
-    return render_template("countrychart.html")    
+    return render_template("countrychart.html")
+
+@app.route("/aboutKen")
+def aboutKen():
+    return render_template("aboutKen.html") 
 
 @app.route("/api/1/BarChart", methods = ["GET"])
 def api_output_barchart():
