@@ -8,7 +8,9 @@
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="KenButtons.css">
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='js/KenButtons.css')}}">
+    
 </head>
 <body>
     
@@ -17,7 +19,7 @@
     <select name="Sports" id="selDataset" onchange="updateChart(this.value)">
       
     </select>
-    <a href="index.html">
+    <a href="/">
         <button class="btn"><i class="fa fa-home" ></i></button>
     </a>
     <canvas id="plot"></canvas>
@@ -25,7 +27,8 @@
         <option value="Gymnastics">Gymnastics</option>
         <option value="dataset2">DataSet2</option>
       </select> -->
-    <script src="../Resource/genderovertime.js"></script>
-    <script src="../static/js/brittani.js"></script>
+      <script src="{{url_for('static', filename='js/genderovertime.js')}}"></script>
+      <script src="{{url_for('static', filename='js/brittani.js')}}"></script>
+    
 </body>
 </html>

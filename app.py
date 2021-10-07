@@ -1,4 +1,4 @@
-from flask import Flask, json, jsonify, render_template
+from flask import Flask, json, jsonify, render_template, url_for
 from flask.wrappers import Response
 import pymongo
 
@@ -19,6 +19,18 @@ All_Data = db.AllData_DB
 @app.route("/")
 def welcome():
     return render_template("index.html")
+
+@app.route("/brittani")
+def brittani():
+    return render_template("brittani.html")
+
+@app.route("/stas")
+def stas():
+    return render_template("stas.html")
+
+@app.route("/countrychart")
+def countrychart():
+    return render_template("countrychart.html")    
 
 @app.route("/api/1/BarChart", methods = ["GET"])
 def api_output_barchart():
