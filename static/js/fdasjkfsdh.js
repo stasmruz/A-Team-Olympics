@@ -3,7 +3,7 @@ function init(){
     const data = {
     labels: labels,
     datasets: [{
-        label: 'My First Dataset',
+        label: 'Wins by Country',
         data: countryResults.map(row=>row.Wins),
         backgroundColor: [
         'rgba(255, 99, 132, 0.2)',
