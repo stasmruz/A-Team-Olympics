@@ -10,7 +10,7 @@ default_filtered=searchResults.filter(result=>{
         .property("value", result.Region);
     }
     
-    return result.Region==="USA"
+    return result.Region==="Afghanistan"
 });
 console.log(Object.entries(searchResults));
 const years= default_filtered.map(result=>result.Year);
